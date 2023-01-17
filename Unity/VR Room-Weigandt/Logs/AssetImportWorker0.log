@@ -79,3 +79,4 @@ Received Import Request.
 Start importing Assets/Build/Room_1.1.unity using Guid(d990d4a1e50b84223be7b835c3372b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a50f2f7f6d76118dc04a3438ff8574') in 0.016429 seconds
   Import took 0.023659 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
